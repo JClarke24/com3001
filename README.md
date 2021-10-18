@@ -1,4 +1,4 @@
-This directory contains the source code for the final year project titled:
+This directory contains the source code and report for the final year project titled:
 "What are the effects of using genetic algorithms to optimize a neural network to play connect-four?"
 
 All of the code was written and tested using the PyCharm IDE and using Python version 3.9 as interpreter.
