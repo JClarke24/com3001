@@ -3,6 +3,8 @@ This directory contains the source code and report for the final year project ti
 
 All of the code was written and tested using the PyCharm IDE and using Python version 3.9 as interpreter.
 
+This project makes use of the implementation from https://github.com/bdmarius/nn-connect4, Artificial Neural Network Learns To Play Connect Four. As well as https://github.com/ahmedfgad/GeneticAlgorithmPython, PyGAD: Genetic Algorithm in Python.
+
 I have created a main.py function which trains and evaluates a simply NN model to play connect-4.
 The "ga" directory contains the files of the second part of the project which consists of optimizing a population of NN to play connect-4.
 Both the gaAlg and gaAlg2 Python scripts contain the code for optimizing the model in two different ways, as covered in the report.
